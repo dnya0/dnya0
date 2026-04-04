@@ -12,7 +12,7 @@
 ### ⚙️ Skills
 
 <a href="https://github.com/dnya0">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,aws,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,aws,docker&theme=dark" />
 </a>
 <br>
 <br>
