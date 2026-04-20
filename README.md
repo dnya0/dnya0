@@ -6,7 +6,7 @@
 
   <!-- https://simpleicons.org/에서 아이콘 찾기 -->
   <a href="https://dnya0.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-4E5EE4?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahn-nayeong/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <br>
 
 ### ⚙️ Skills
